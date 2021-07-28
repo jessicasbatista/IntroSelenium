@@ -28,7 +28,6 @@ public class CreateAccountPage {
 
 	public void clickOnCreateAccount() {
 		driver.findElement(createAccount).click();
-
 	}
 
 	public void enterEmail(String resp) {
